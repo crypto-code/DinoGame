@@ -4,6 +4,7 @@
 * Processing (https://processing.org/download/)
 
 ## Usage:
+* Download and extract all files.
 * Open [DinoGame.pde](DinoGame.pde) and Run the Program.
 * Controls: 
 
