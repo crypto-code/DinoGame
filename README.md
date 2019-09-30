@@ -13,5 +13,7 @@
     Press + and - to adjust the game speed
 
 
+# G00D LUCK
+
 For doubts email me at:
 atinsaki@gmail.com
