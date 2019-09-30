@@ -11,3 +11,7 @@
     Press G to show all of the generations where the dinosaurs improved press N to show Nothing (to speed up the evolution)
     
     Press + and - to adjust the game speed
+
+
+For doubts email me at:
+atinsaki@gmail.com
