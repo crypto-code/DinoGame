@@ -12,6 +12,11 @@
     
     Press + and - to adjust the game speed
 
+## Result:
+<p align="center">
+<img src="https://github.com/crypto-code/DinoGame/blob/master/assets/dino.gif" align="middle" />   </p>
+After 384 generaions, the T-rex kept playing forever.
+
 
 # G00D LUCK
 
